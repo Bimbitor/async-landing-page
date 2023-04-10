@@ -40,3 +40,5 @@ async function fetchData(urlApi) {
         console.log(error);
     }
 })();
+
+
